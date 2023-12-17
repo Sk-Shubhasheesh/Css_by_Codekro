@@ -1,0 +1,66 @@
+.card{
+    width: 280px;
+    padding: 10px;
+    border-radius: 14px;
+    border: 1px solid lightgrey;
+    /* margin: 20px; */
+}
+.card-img{
+    width: 100%;
+    border-radius: 14px;
+
+}
+.flexbox{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;   /*it align-items: horizontaly; */
+    flex-wrap: wrap;
+    margin-top: 60px;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    height: 24px;
+}
+.btn{
+    padding: 16px 30px;
+    font-size: 16px;
+    border: 1px solid gray;
+    border-radius: 12px;
+    background-color: #fff;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+
+
+
+/* 2nd Project */
+/* .feed{
+    width: 480px;
+    margin: 16px auto;
+    padding: 10px;
+    border-radius: 14px;
+    border: 1px solid lightgray;
+}
+.user{
+    height: 50px;
+    border-radius: 50%;
+}
+.profile{
+    display: flex;
+    margin-bottom: 24px;
+    align-items: center;  it align-items: vertical; 
+    gap: 8px;
+}
+.username{
+    font-size: 14px;
+    color: gray;
+} */

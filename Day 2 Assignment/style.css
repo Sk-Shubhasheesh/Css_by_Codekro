@@ -1,0 +1,166 @@
+/*                                          Assignment 1
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap');
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	background-color: #f2e9e4;
+}
+
+.hero-box {
+	width: 600px;
+	margin: 50px auto;
+	position: relative;
+}
+
+.hero-img {
+	width: 100%;
+	border-radius: 18px;
+}
+
+.hero-content {
+	position: absolute;
+	text-align: center;
+	color: #fff;
+	bottom: 60px;
+	padding: 6px;
+}
+
+p {
+	font-size: 15px;
+}
+
+.btn {
+	background-color: #fff;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 40px;
+	font-size: 16px;
+	font-weight: 500;
+} */
+
+/*                                       Assignment 2
+
+
+.card{
+	width: 400px;
+	height: 400px;
+	margin: 20px auto;
+	border: 1px solid lightgray;
+	border-radius: 12px;
+}
+.card-header{
+	width: 380px;
+	height: 250px;
+	margin: 10px 10px;
+	border-radius: 12px;
+	position: relative;
+	
+}
+.img{
+	width: 100%;
+	height: 100%;
+	border-radius: 14px;
+}
+.promoted-label{
+	padding: 2px 12px;
+	border-radius: 5px;
+	background: #72e951;
+	position: absolute;
+	top: 15px;
+	margin-left: 15px;
+	color: white;
+}
+.discount-label{
+	width: 164px;
+	font-size: 20px;
+	padding: 1px 12px;
+	background-color: blue;
+	color: white;
+	position: absolute;
+	bottom: 14px;
+}
+.time-label{
+	width: 60px;
+	padding: 2px 10px;
+	color: black;
+	background-color: white;
+	font-size: 20px;
+	font-weight: 700;
+	border-radius: 7px;
+	position: absolute;
+	bottom: 16px;
+	right: 0;
+	margin-right: 20px;
+}
+.heading{
+	margin: 5px;
+}
+.cuisine-label{
+	font-size: 20px;
+	margin: 5px;
+	font-family: sans-serif;
+	color: #6c757d;
+}
+.safety-box{
+	border-top: 1px solid lightgray;
+	width: 100%;
+	position: relative;
+}
+.logo{
+	width: 60px;
+	position: absolute;
+	bottom:12px;	
+}
+.safety-label{
+	margin-left: 70px;
+	font-size: 17px;
+	color: #6c757d;
+	margin-bottom: 90px;
+} */
+
+.card{
+	width: 800px;
+	height: 400px;
+	margin: 30px auto;
+	position: relative;
+}
+.img{
+	width: 100%;
+}
+.heading{
+	font-size: 50px;
+	width: 100%;
+	font-weight: bolder;
+	color: white;
+	position: absolute;
+	text-align: center;
+	bottom: 100px;
+}
+.sub{
+	font-size: 30px;
+	font-weight: 200;
+	position: relative;
+	text-align: center;
+	bottom: 255px;
+	color: white;
+}
+.icon{
+	width: 25px;
+	height: 20px;
+}
+.field{
+	padding: 10px 55px;
+	position: absolute;
+	bottom: 40px;
+	border-radius: 5px;
+	left: 130px;
+}
+.serch-bar{
+	position: relative;
+}
+.icon{
+	position: absolute;
+	bottom: 40px;
+	left:30px;
+	margin-left: 80px;
+}
